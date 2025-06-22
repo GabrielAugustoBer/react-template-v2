@@ -22,7 +22,7 @@ npm run preview  # Visualiza a versão final do app
 ## Como começar?
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/react-template-v2.git
+   git clone https://github.com/GabrielAugustoBer/react-template-v2.git
    ```
 2. Entre no diretório do projeto:
    ```sh
